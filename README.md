@@ -1,5 +1,6 @@
 ### Hi there 👋
 This is the official ShellEmu GitHub
+
 Info about main dev of ShellEmu:
 - 🔭 I’m currently working on ShellEmu :/
 - 🌱 I’m currently learning C#
